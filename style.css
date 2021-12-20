@@ -24,18 +24,18 @@ h1 {
     }
 
      .photos .frstimg {
-        width: 20%;
-        height: 36vh;
+        width: 100%;
+        height: 60vh;
     }
 
     .photos .scndimg {
-        width: 20%;
-        height: 36vh;
+        width: 100%;
+        height: 60vh;
     }
 
     .photos .thrdimg {
-        width: 20%;
-        height: 36vh;
+        width: 100%;
+        height: 60vh;
     }
 
   .info {
