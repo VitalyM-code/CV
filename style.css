@@ -20,6 +20,13 @@ h1 {
     .photos {
         display: flex;
         justify-content: space-evenly;
+        @media all {
+            .photos {
+                        display: flex;
+                        flex-direction: column ;
+                    }
+                }
+      
     }
 
      .photos .frstimg {
