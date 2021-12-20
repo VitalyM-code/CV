@@ -19,8 +19,6 @@ h1 {
 
  .photos {
     background-color: rgb(141, 130, 238);
-    width: 100vw;
-    height: 400px;
     display: flex;
     justify-content: space-evenly;
  }
