@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -5,7 +7,9 @@
 }
 
 body {
-    background-color: yellow;
+    
+    font-family: 'Roboto', sans-serif;
+    
 }
 
 h1 {
@@ -23,66 +27,78 @@ h1 {
  .info {
     background-color: rgb(141, 130, 238);
     width: 100vw;
+    padding: 2%;
+    line-height: 2;
     
+ }
+
+ .info ul {
+    list-style-type: none;
  }
    
 
 .merkis {
     background-color: rgb(0, 255, 42);
     width: 100vw;
+    padding: 2%;
+    line-height: 2;
     
-   
-    
-    align-items: center;
 }
 
-.darbs ul {
+.darbs {
     background-color: lime; 
     width: 100vw;
-    
-    
-    
-    
-}
-
-.izglitiba ul {
-    background-color: yellowgreen; 
-    width: 100vw;
+    padding: 2%;
+    line-height: 2;
     
     
 }
 
-.citas p {
+.izglitiba {
     background-color: yellowgreen; 
     width: 100vw;
-    
+    padding: 2%;
+    line-height: 2;
+}
+
+.valodas {
+    background-color: yellowgreen; 
+    width: 100vw;
+    padding: 2%;
+    line-height: 2;
    
+}
+
+.citas {
+    background-color: yellowgreen; 
+    width: 100vw;
+    padding: 2%;
+    line-height: 2;
     
 }
 
-.ipasibas p {
+.ipasibas {
     background-color: yellowgreen; 
     width: 100vw;
-    
-    
-    align-items: center;
+    padding: 2%;
+    line-height: 2;
+   
 }
 
-.intereses p {
+.intereses {
     background-color: yellowgreen; 
     width: 100vw;
+    padding: 2%;
+    line-height: 2;
     
-    
-    align-items: center;
 }
 
-.tikli ul {
+.tikli {
     background-color: yellowgreen; 
     width: 100vw;
-    
-    
-    
-    
+    padding: 2%;
+    line-height: 2;
+        
 }
 
 
